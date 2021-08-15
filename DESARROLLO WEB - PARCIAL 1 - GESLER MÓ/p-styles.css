@@ -383,7 +383,7 @@ footer {
       width: 44%;
   }
 
-  /* Clientes */
+  /* EMOCIONES */
 
   .cards{
       flex-direction: column;
@@ -403,7 +403,7 @@ footer {
     width: 90%;
   }
 
-  /* servicios */
+  /* COMPETENCIAS */
 
   .servicio-cont{
       justify-content: center;
@@ -459,7 +459,7 @@ footer {
       width: 95%;
   }
 
-  /* Clients */
+  /* COMPETENCIAS */
 
   .cards .card{
       height: 450px;
